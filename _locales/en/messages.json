@@ -1,0 +1,12 @@
+{
+
+  "lookupImage": {
+    "message": "Card Image: %s",
+    "description": "Opens a popup containing the card image"
+  },
+  "lookupOnGatherer": {
+    "message": "Gatherer Page: %s",
+    "description": "Navigates to the card page on Gatherer"
+  }
+
+}
